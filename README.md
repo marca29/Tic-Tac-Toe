@@ -1,4 +1,4 @@
-# Setup Guide: Multiplayer Tic-Tac-Toe
+# Setup Guide: Tic-Tac-Toe
 
 This project uses a separated client-server architecture (Vite/React for the frontend, Node/Express/Socket.IO for the backend) and relies on PostgreSQL for data storage.
 Follow these steps to get the game running on your Local Area Network.
