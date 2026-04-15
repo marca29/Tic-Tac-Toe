@@ -17,7 +17,7 @@ npm init -y
 npm install express cors bcryptjs jsonwebtoken pg socket.io dotenv
 
 # 3. Frontend
-cd ../frontend
+cd frontend
 npm install
 npm install socket.io-client
 ```
