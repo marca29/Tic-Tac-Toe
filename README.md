@@ -14,7 +14,7 @@ git clone <your-repository-url>
 # 2. Backend
 cd backend
 npm init -y
-npm install express cors bcryptjs jsonwebtoken pg socket.io
+npm install express cors bcryptjs jsonwebtoken pg socket.io dotenv
 
 # 3. Frontend
 cd ../frontend
