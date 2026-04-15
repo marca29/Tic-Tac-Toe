@@ -146,7 +146,7 @@ Open Command Prompt/Terminal and type `ipconfig`. Look for the:
 - **IPv4 Address** on Windows
 - **inet** on Mac/Linux
 
-Create a file named `.env` inside the `/backend` directory.
+Create a file named `.env` inside the `/backend` and `/frontend` directories.
 ```
 VITE_API_URL=http://192.168.1.X:3001
 JWT_SECRET=your_very_long_and_random_32_character_secret
